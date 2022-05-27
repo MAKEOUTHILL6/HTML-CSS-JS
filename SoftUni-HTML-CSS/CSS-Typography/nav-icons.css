@@ -1,0 +1,38 @@
+@import 'https://use.fontawesome.com/releases/v5.10.2/css/all.css';
+nav {
+    width: 250px;
+    background-color: rgb(226, 225, 225);
+    border: none;
+    box-shadow: 1px 2px 3px 2px rgba(0,0,0,0.3);
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+}
+a {
+    margin-bottom: 13px;
+    text-decoration: none;
+    color: rgb(202, 8, 8);
+    font-size: 20px;
+}
+div {
+    margin-top: 50px;
+}
+.checkout {
+    background-color: rgb(14, 180, 14);
+}
+.info {
+    background-color: rgb(71, 71, 241);
+}
+.delete {
+    background-color: rgb(211, 7, 7);
+}
+button {
+    margin-right: 5px;
+    padding: 7px 14px 7px 14px;
+    border: 1px solid rgb(175, 173, 173);
+    color: white;
+    font-size: 20px;
+}
+button:hover {
+    cursor: pointer;
+}
