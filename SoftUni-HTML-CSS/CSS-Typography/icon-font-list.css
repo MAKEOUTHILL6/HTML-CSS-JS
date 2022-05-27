@@ -1,0 +1,26 @@
+@import 'https://use.fontawesome.com/releases/v5.10.2/css/all.css';
+header {
+    text-align: center;
+    color: #008000;
+}
+.cont {
+    box-shadow: 2px 4px 5px 10px;
+    padding: 30px;
+    background-color: black;
+    margin:10% auto 0 auto;
+}
+div {
+    width: 600px;
+    text-align: center;
+}
+h1 {
+    font-size: 25px;
+    font-family: 'Press Start 2P';
+}
+h3 {
+    font-family:'Press Start 2P';
+}
+p {
+    font-size: 19px;
+    color: #008000;
+}
