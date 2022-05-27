@@ -1,0 +1,20 @@
+.cont1 h1 {
+    border-radius: 5px;
+    padding: 15px;
+    background-color: rebeccapurple;
+    color: wheat;
+    text-decoration: underline;
+}
+.cont1 li {
+    font-size: 20px;
+}
+.cont2 h1 {
+    border-radius: 5px;
+    padding: 15px;
+    background-color: rebeccapurple;
+    color: wheat;
+    text-decoration: underline;
+}
+.cont2 li {
+    font-size: 20px;
+}
