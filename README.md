@@ -1,2 +1,2 @@
-# HTML-CSS
-small personal projects with HTML &amp; CSS
+# HTML-CSS-JS
+small personal projects with HTML &amp; CSS &amp; JS
