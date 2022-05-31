@@ -1,0 +1,19 @@
+.box1 {
+    margin-top: 15px;
+    border-radius: 5px;
+    padding: 15px 25px;
+    width: 280px;
+    display: inline-block;
+    background-color: #0A2C48;
+}
+.box1:hover {
+    opacity: 0.8;
+}
+.p1 {
+    font-size: 17px;
+    font-weight: bold;
+    color: white;
+}
+.p2 {
+    color: #c9d6ff;
+}
