@@ -1,0 +1,29 @@
+header {
+    display: flex;
+    text-align: center;
+}
+h1 {
+    margin-right: 25px;
+}
+nav {
+    text-align: center;
+}
+ul {
+    margin-top: 35px;
+    list-style-type: none;
+    display: flex;
+    flex-direction: row; 
+}
+ul a {
+    text-decoration: none;
+    color: rgb(120, 178, 34);
+}
+ul li {
+    margin-right: 20px;
+}
+div {
+    margin-bottom: 10px;
+    border-top: 2px solid black;
+    position: relative;
+    top: 5px;
+}
