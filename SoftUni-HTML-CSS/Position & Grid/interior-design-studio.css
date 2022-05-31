@@ -1,0 +1,12 @@
+img {
+    object-fit: cover;
+    position: relative;
+    margin: 10% 25%;
+}
+h1 {
+    color: wheat;
+    text-shadow: 1px 1px 20px black;
+    left: 530px;
+    top: 240px;
+    position: absolute;
+}
