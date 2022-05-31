@@ -1,0 +1,8 @@
+section {
+    display: flex;
+    justify-content: space-between;
+    max-width: 40vw;
+}
+div {
+    margin-left: 20px;
+}
